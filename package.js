@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mordka:leaflet-extended-div-icon',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'L.ExtendedDivIcon - set the id and style of your leaflet custom icon created by L.DivIcon',
   git: 'https://github.com/mordka/leaflet-extended-div-icon',
   documentation: 'README.md'
