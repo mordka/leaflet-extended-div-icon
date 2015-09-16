@@ -1,0 +1,9 @@
+{
+  "name": "leaflet-extended-div-icon",
+  "devDependencies": {
+    "spacejam": "latest"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/spacejam --mongo-url mongodb:// test-packages ./"
+  }
+}
